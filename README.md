@@ -10,6 +10,8 @@ Apple Open Source Downloader
 	
 然后根据提示输入即可
 
+![预览](https://github.com/BlueCocoa/Apple-Open-Source-Downloader/raw/master/Preview.png "Preview")
+
 [Blog Link]
 [Blog Link]:
 https://blog.0xbbc.com/2015/05/下载apple开源项目/
